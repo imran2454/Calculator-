@@ -27,4 +27,7 @@ Click on the operator buttons (+, -, *, /) to perform operations.
 
 Click on the "=" button to get the result.
 
-Click on the "C" button to clear the input and start a new calculation.
+Click on the "AC" button to clear the input and start a new calculation.
+
+Click on the "DEL" button to one one character 
+
